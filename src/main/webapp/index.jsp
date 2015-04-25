@@ -3,6 +3,6 @@
 <head>
 </head>
 <body>
-<h1>Demo app hosted on app engine</h1>
+<h1>Demo app hosted on app engine and linked with git repo</h1>
 </body>
 </html>
